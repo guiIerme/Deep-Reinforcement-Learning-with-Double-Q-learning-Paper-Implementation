@@ -6,9 +6,6 @@ The authors of the paper applied [Double Q-learning](https://papers.nips.cc/pape
 
 The major difference between those two algorithms is the way to calculate Q-value from target network. Compared to the DQN, directly using Q-value from target network, DDQN chooses an action that maximizes the Q-value of main network at the next state.
 
-
-Most of the implementation is almost the same as the [implementation of DQN](https://github.com/jihoonerd/Human-level-control-through-deep-reinforcement-learning).
-
 ## Features
 
 * Employed ***TensorFlow 2*** with performance optimization
