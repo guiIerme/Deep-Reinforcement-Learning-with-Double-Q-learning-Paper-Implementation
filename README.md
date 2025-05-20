@@ -65,7 +65,7 @@ $ python main.py --env BreakoutNoFrameskip-v4 --train --log_interval 100 --save_
 
 ## Results
 
-This implementation is guaranteed to work well for `Atlantis`, `Boxing`, `Breakout` and `Pong`. Tensorboard summary is located at `./archive`. Tensorboard will show following information:
+This implementation is work well for `Atlantis`, `Boxing`, `Breakout` and `Pong`. Tensorboard will show the following information:
 
 * Average Q value
 * Epsilon (for exploration)
