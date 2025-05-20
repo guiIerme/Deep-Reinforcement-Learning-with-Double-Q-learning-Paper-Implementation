@@ -78,24 +78,5 @@ This implementation is guaranteed to work well for `Atlantis`, `Boxing`, `Breako
 * Test score
 * Total frames
 
-```bash
-$ tensorboard --logdir=./archive/
-```
 
-Single RTX 2080 Ti is used for the results below. (Thanks to [@JKeun](https://github.com/JKeun) for allowing his computation resources)
-
-### Atalntis
-
-* Orange: DQN
-* Blue: DDQN
-
-#### Reward
-
-![atlantis](/assets/atlantis_result.png)
-
-#### Q-value
-
-![atlantis_Q](/assets/DDQN_Q-value.png)
-
-We can see that DDQN's average Q-value is suppressed compared to that of DQN.
 
